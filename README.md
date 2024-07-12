@@ -65,7 +65,7 @@ customers.sql
 
 ## Part 1, Question 2 Transactions
 
-Queries to load the data and to get the answers of the qeustions are in [transactions.sql](https://github.com/AwaishK/analytics_engineer_assessment/blob/main/transactions.sql) file. 
+Queries to load the data and to get the answers of the questions are in [transactions.sql](https://github.com/AwaishK/analytics_engineer_assessment/blob/main/transactions.sql) file. 
 
 
 ## Part 2, Question 3 Product Insights
